@@ -1,0 +1,281 @@
+@charset "UTF-8";
+
+
+
+section#corpo_avaliacao{
+    height: 100%;
+    width: 1000px;
+    margin-left: 190px;
+    margin-right: 10px;
+    margin-top: -70px;
+    margin-bottom: 5px;
+    background-color: #ffffff;
+}
+
+section#corpo_avaliacao form fieldset#avaliacao p label.bom{
+    margin-left: 133px;
+}
+
+section#corpo_avaliacao form fieldset#avaliacao p label.otimo{
+    margin-left: 133px;
+}
+
+section#corpo_avaliacao form fieldset#avaliacao p label.Razoavel{
+    margin-left: 40px;
+}
+
+section#corpo_avaliacao form fieldset#avaliacao p label.MuitoBom{
+    margin-left: 40px;
+}
+
+
+section#corpo_avaliacao form fieldset#avaliacao p input#cOtimo{
+    margin-left: 2px;
+}
+
+section#corpo_avaliacao form fieldset#avaliacao p input#cRaz{
+    margin-left: 14px;
+}
+
+section#corpo_avaliacao form fieldset#avaliacao p input#mBom{
+    margin-left: 5px;
+}
+
+section#corpo_avaliacao form fieldset#avaliacao p label.Coment{
+    margin-left: -5px;
+    margin-top: 300px;
+}
+section#corpo_avaliacao form fieldset#avaliacao p textarea#cComent{
+    margin-top: 20px;
+}
+form fieldset#avaliacao{
+    margin-top: 80px;
+         
+}
+ h3{
+    padding-top: 30px;
+    margin-left: 30px;
+    color: #696969;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    font-size: 20pt;
+   
+}
+
+ div#item0 img{
+    margin-top: -10px;
+    width: 500px;
+    margin-left: 70px;
+    
+ }
+
+ div.item1 img{
+
+    width: 300px;
+    margin-left: 100px;
+ }
+
+ div.item2 img{
+
+    width: 430px;
+    margin-left: 37px;
+ }
+
+ div.item3 img{
+
+    width: 295px;
+    margin-left: 105px;
+ }
+
+ div.item4 img{
+
+    width: 295px;
+    margin-left: 105px;
+ }
+ 
+ div#topo{
+ width: 100%;
+ height: 80px;
+ background-color: white;
+ }
+ 
+ div#menu{
+ 
+ width: 100%;
+ height: 40px;
+ background-color: white;
+
+ }
+ div#menu ul{
+			 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+			 margin: auto;
+			 list-style-type: none;
+			 font-size: 18px;
+			 
+		}
+
+div#menu ul li{
+	float: left;
+	position: relative;
+	
+	}
+	
+	div#menu ul li{
+	float: left;
+	position: relative;
+	
+}
+
+div#menu ul li a{
+	 text-decoration: none;
+	 display: block;
+	color: black;
+	width: auto;
+	margin-right: 10px;
+	margin-left: 30px;
+	background-color: dodgerblue;
+    
+}
+
+	
+ div#conteudo{
+ height: 100%;
+ width: 100%;
+ background-color: white;
+
+ }
+ 
+ div#bloco_img{
+ margin-top: 100px;
+
+  
+ }
+ div#img1{
+ float: left;
+ 
+ }
+ div#img2{
+  float: left;
+  margin-left: 5px;
+ }
+ div#img3 img{
+  float: left;
+  margin-left: 10px;
+  width: 250px;
+  height: 400px;
+ }
+ div#conteudo_bloco_noticias{
+     margin-top: 500px;
+     margin-left: 420px;
+     
+ }
+ div#img4 img{
+     width: 300px;
+     height: 150px;
+     margin-left: -200px;
+ }
+
+ div#img5 img{
+    width: 300px;
+    height: 150px;
+    float: left;
+    margin-top: -170px;
+    margin-left: 200px;
+}
+
+div#img6 img{
+    height: 70px; 
+    width: 100px;
+    margin-top: -90px;
+    margin-left: -200px;
+}
+
+div#img7 img{
+    height: 70px; 
+    width: 100px;
+    float: left;
+    margin-top: -150px;
+    margin-left: 200px;
+}
+
+ 
+ div#titulo4 h3 a{
+      
+     text-decoration: none;
+     margin-left: -230px;
+     margin-top: -100px;
+     float: left;
+     color: rgba(0,0,0,4);
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 18px;    
+
+ }
+
+ div#titulo5 h3 a{
+    float: left;
+    text-decoration: none;
+    margin-left: 170px;
+    margin-top: -160px;
+    color: rgba(0,0,0,4);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    
+   
+
+}
+
+div#titulo6 h3 a{
+    float: left;
+    text-decoration: none;
+    margin-left: -110px;
+    margin-top:  -130px;   
+    color: rgba(0,0,0,4);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    
+   
+
+}
+
+div#titulo7 h3 a{
+    float: left;
+    text-decoration: none;
+    margin-left: 300px;
+    margin-top:  -180px;   
+    color: rgba(0,0,0,4);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;   
+
+}
+
+div#comentario1{
+    color: #777777;
+    font-size: 13px;
+    margin-top: -160px;
+    margin-left: -200px;
+    font-family: Open Sans, Arial, sans-serif;
+    
+
+}
+ 
+div#comentario2{
+    color: #777777;
+    font-size: 13px;
+    margin-top: -80px;
+    margin-left: 200px;
+    font-family: Open Sans, Arial, sans-serif;
+    float: left;
+
+}
+ div#topo h1{
+    margin-left: 500px;
+ }
+
+ div#noticia1 img{
+     float: left;
+ }
+ div#rodape{
+ width: 100%;
+ height: 100%;
+ margin-top: 800px;
+ background-color: black;
+ }
